@@ -28,7 +28,7 @@ class crawler(object):
         self.active = []
 
         # Channels to scrape data from : @channel1 @channel2 ...
-        self.source = [ 'channel1', 'channel2' ]
+        self.source = [ 'proxymtproto', 'channel2' ]
         self.core()
 
 
